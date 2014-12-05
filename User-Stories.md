@@ -14,3 +14,8 @@ User Stories - OpenLibrary Template Site
 * As someone who has a smartphone but not a computer, I want to be able to use the site 
 
 *?Maybe?* As library staff, I want to be able to quickly update the site via tweet when rapid changes in services or events happen?
+
+* As a library admin, I want a website that has the ability for users to donate *
+
+* As a library user I would a website that provides like access to online materials (CDs, e-books, etc) *
+
